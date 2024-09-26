@@ -1,0 +1,57 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "company_name&",
+        "CompanyName&"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ConfigFile&Sequence_1",
+        "Config&Sequence_1",
+        "dt_Data&Sequence_1",
+        "ConfigFileSheet&Sequence_16",
+        "dt_Config&Sequence_16",
+        "CompanyName&b6a50c69-0fc4-495d-8f95-3d60dacd4464",
+        "company_name&b6a50c69-0fc4-495d-8f95-3d60dacd4464"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LogMessage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CompanyName&0e68c289-0474-496e-ba12-8a610ddf0d58",
+        "company_name&0e68c289-0474-496e-ba12-8a610ddf0d58"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "str_Input"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/LogMessageTemplate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CompanyName&06f59b23-2e7c-4f02-a149-f596b20b408c",
+        "company_name&06f59b23-2e7c-4f02-a149-f596b20b408c"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "str_Input"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
